@@ -7,7 +7,7 @@ import numpy as np
 class VideoApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Video Filter App")
+        self.title("cw-322-v01-Zubov-Evgen")
         self.geometry("980x480")
         self.configure(bg="#2e3b4e")
         self.video_source = None
